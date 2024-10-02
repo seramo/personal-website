@@ -314,3 +314,7 @@ body {
 .fa-linkedin:before {
     content: "\f0e1";
 }
+
+.fa-github:before {
+    content: "\f09b";
+}
